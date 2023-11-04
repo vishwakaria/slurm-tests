@@ -11,7 +11,7 @@ import time
 # Define global variables for the model, optimizer, and other checkpoint-related data
 net = None
 optimizer = None
-checkpoint_path = '/mnt/shared/checkpoints/model.pt'
+checkpoint_path = 'fsx/checkpoints/model.pt'
 epoch = 0
 sig_received = False
 
