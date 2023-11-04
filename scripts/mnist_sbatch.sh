@@ -8,4 +8,4 @@
 set -ex
 
 # Execute integration tests.
-srun --no-kill /mnt/shared/scripts/mnist_launch.sh
+srun --no-kill /fsx/scripts/mnist_launch.sh
